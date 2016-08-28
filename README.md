@@ -1,1 +1,2 @@
 # DevelopingDataProducts
+This repository contains an app documentation file (QuickHealthCheckApp_Documentation.Rd) and a directory (QuickHealthCheck) where there is an app.R file (it contains, in one file, both the ui.R and server.R, as it can be easily seen looking at the code. More information on this on the app presentation site: http://rpubs.com/CNallim/204789). The QuickHealthCheck directory contains, besides the mentioned app.R file, a subdirectory (named "www"), in which an image file is stored to be used by the app when it runs.
